@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/asignaturas-informatica-uoc.html" }]
+}
